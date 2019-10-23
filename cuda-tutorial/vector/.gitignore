@@ -1,2 +1,3 @@
 vector
 vector_gpu_add
+vector_cpu_add
