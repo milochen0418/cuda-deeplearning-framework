@@ -37,9 +37,11 @@ int main(){
 
     // Main function
     vector_add(out, a, b, N);
+    /*
     for(int i = 0; i < N; i++){
         printf("[%d] -> %f\n", i, out[i]);
     }
+    */
     return 0;
 }
 
