@@ -20,6 +20,7 @@ real    0m1.505s
 user    0m0.668s
 sys     0m0.766s
 
-
+# Reference 
+https://cuda-tutorial.readthedocs.io/en/latest/tutorials/tutorial01/  
 
 
